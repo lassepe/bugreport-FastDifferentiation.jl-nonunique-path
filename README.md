@@ -1,4 +1,4 @@
-# bugreport-FastDifferentiation.jl-nonunique-path
+# Reproducer for https://github.com/brianguenter/FastDifferentiation.jl/issues/40
 
 The reproducer in `main.jl` triggers the following error:
 
