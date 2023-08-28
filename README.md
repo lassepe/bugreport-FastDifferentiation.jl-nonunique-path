@@ -3,7 +3,7 @@
 The reproducer in `main.jl` triggers the following error:
 
 ```julia
-ERROR: AssertionError: Should only be one path from root 2 to variable 6. Instead have 2 children from node 1474 on the path
+ERROR: LoadError: AssertionError: Should only be one path from root 1 to variable 6. Instead have 2 children from node 65 on the path
 ```
 
 Last tested with:
